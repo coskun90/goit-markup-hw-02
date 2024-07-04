@@ -7,8 +7,8 @@ body {
   background-color: #ffffff;
   font-weight: regular;
   font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 2%;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 
 /* --- HEADER ALANI --- */
@@ -33,7 +33,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -52,7 +52,7 @@ body {
 .adres-link {
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -71,9 +71,9 @@ body {
 /* "cta-section" class'ındaki H1 tag'inin özellikleri */
 .cta-section > h1 {
   font-size: 56px;
-  line-height: 60px;
+  line-height: 1.07;
   text-align: center;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #ffffff;
 }
 
@@ -84,7 +84,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   color: #ffffff;
 }
 
@@ -101,7 +101,7 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -109,7 +109,7 @@ body {
 .vision-list-paragraph {
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -124,7 +124,7 @@ body {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -139,7 +139,7 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -147,7 +147,7 @@ body {
 .team-list-paragraph {
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -157,7 +157,7 @@ body {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -167,7 +167,7 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -175,7 +175,7 @@ body {
 .portfolio-list-paragraph {
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -205,5 +205,5 @@ body {
 .footer-paragraph {
   line-height: 24px;
   color: #f4f4fd;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
